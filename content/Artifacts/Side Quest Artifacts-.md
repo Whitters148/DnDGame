@@ -1,3 +1,11 @@
+```
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+```
 These artifacts are powerful but not essential to **Damaris' plan** or the main quest. Instead, they offer **significant bonuses** or **side challenges** that provide advantages for the players if they seek them out. They could be used to help the players face **Damaris' forces**, but each comes with its own curse or moral dilemma.
 
 1. **The Mirror of Forgotten Truths**

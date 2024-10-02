@@ -1,3 +1,11 @@
+```
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+```
 These artifacts are central to **Lord Damaris' ascension**, the players’ attempts to stop him, and the overarching conflict. The players must interact with these artifacts at key points in the main story, as they directly relate to the villain's rise to power and the ultimate fate of **Vaeloris**.
 
 1. **The Heart of the Void**

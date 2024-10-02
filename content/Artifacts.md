@@ -1,3 +1,11 @@
+```
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+```
 The **ancient corrupted artifacts** are pivotal elements in the story, tied directly to **Lord Damaris Malakar’s** rise to power and his eventual ascension. These artifacts are powerful relics from an ancient age, imbued with dark and forbidden magic. **Damaris** has been gathering these artifacts to **siphon their power**, making him stronger and more dangerous as the campaign progresses.
 
 Let’s break down what these artifacts are, how they function, and the role they play in the overall story.
