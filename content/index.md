@@ -8,7 +8,3 @@ title: Index of Contents
 [[Enemies]]
 
 [[Map]]
-
----
-
-Test Test Test
