@@ -1,7 +1,6 @@
 ---
 title: 
-draft: false
+draft: true
 cssclasses:
-  - hidden
 ---
 [[Dusk Spider]]
