@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 **Type**: Medium Humanoid (Any Race), Neutral Evil  
 **Armor Class**: 16 (Studded Leather Armor)  
 **Hit Points**: 55 (10d8 + 10)  

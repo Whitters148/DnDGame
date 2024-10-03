@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 **Type**: Medium humanoid (any race), any alignment  
 **Armor Class**: 16 (Chainmail)  
 **Hit Points**: 65  

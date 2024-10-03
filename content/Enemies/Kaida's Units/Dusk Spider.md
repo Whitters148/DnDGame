@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 **Type**: Medium Beast, Unaligned  
 **Armor Class**: 13 (Natural Armor)  
 **Hit Points**: 36 (8d8)  

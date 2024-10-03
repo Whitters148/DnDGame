@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 Large Beast, unaligned
 
 - **Armor Class**: 15 (natural armor)

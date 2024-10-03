@@ -1,11 +1,7 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
 
 _Large Monstrosity, Unaligned_
 
