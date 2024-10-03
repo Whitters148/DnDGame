@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 - **Role**: Innkeeper of **The Scorched Oasis** Tavern.
 - **Occupation**: Innkeeper, contact for the Resistance.
 - **Personality**: Witty, sharp, and always aware of the latest gossip and happenings in town.

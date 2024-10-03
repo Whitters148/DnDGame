@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 - **Role**: Master thief and covert operative for the Resistance.
 - **Occupation**: Spy and information broker.
 - **Personality**: Quiet, calculating, and always two steps ahead. She works in the shadows and rarely reveals her true motives.

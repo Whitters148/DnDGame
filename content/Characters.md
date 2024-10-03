@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Characters
 draft: false
-tags:
-  - 
 ---
-```
+
 [[Karim of the Dunes (Weapon Merchant)]]
 [[Leila Ashmir (Innkeeper)]]
 [[Lyra Stormclaw]]

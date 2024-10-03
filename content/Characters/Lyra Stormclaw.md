@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 - **Race**: Half-Wolf Humanoid
 - **Occupation**: Desert Scout
 - **Location**: Duneblade Desert, often found in the town of Sunscar or patrolling the desert.

@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 - **Role**: Trade Master and unofficial leader of Sunscar.
 - **Occupation**: Mayor and Trade Master.
 - **Personality**: Stoic, practical, and burdened by the pressure of keeping Sunscar safe.

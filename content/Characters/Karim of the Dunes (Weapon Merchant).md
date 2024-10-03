@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 - **Role**: Weaponsmith and black market arms dealer.
 - **Occupation**: Weapon merchant with ties to the desert nomads.
 - **Personality**: Blunt, direct, and occasionally cynical, but he has a grudging respect for fighters who know what they want.

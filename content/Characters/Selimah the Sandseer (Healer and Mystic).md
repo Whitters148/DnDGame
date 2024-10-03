@@ -1,11 +1,8 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
+
 - **Role**: Local healer and fortune-teller.
 - **Occupation**: Herbalist, healer, and mystic.
 - **Personality**: Mysterious, cryptic, and always speaking in riddles or omens. She believes in fate and destiny.
