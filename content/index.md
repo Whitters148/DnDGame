@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Index of Contents
 ---
 [[Artifacts]]
 [[Characters]]
