@@ -1,3 +1,9 @@
+---
+title: 
+draft: 
+cssclasses:
+  - hidden
+---
 ### **1. Temporal Surge**
 
 - **Level**: 4th-level

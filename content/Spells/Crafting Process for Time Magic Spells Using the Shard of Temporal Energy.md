@@ -1,3 +1,9 @@
+---
+title: 
+draft: 
+cssclasses:
+  - hidden
+---
 ### **1. Obtaining a Shard of Temporal Energy**
 
 - **Location**: These rare shards are found deep within the **Temple of Lost Time**, guarded by **time phantoms** and **temporal traps**.
