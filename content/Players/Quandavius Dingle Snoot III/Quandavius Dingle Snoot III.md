@@ -62,7 +62,7 @@ Though he still dreams of returning to Sharbood to reclaim his old life, Quandav
 
 ### **Appearance**:
 
-At 7 feet tall and weighing a lean 150 pounds, Quandavius Dingle Snoot III cuts an unusual figure, towering over most others with his gangly frame. His skin is pale, "pale as a ghost," making him stand out even more. His eyes glow an eerie amber, an almost unnatural hue that gives him a haunting, otherworldly appearance. His hair is rugged, dark, and often falls in messy strands over his face, adding to his roguish charm.
+At 6 feet tall and weighing a lean 150 pounds, Quandavius Dingle Snoot III cuts an unusual figure, towering over most others with his gangly frame. His skin is pale, "pale as a ghost," making him stand out even more. His eyes glow an eerie amber, an almost unnatural hue that gives him a haunting, otherworldly appearance. His hair is rugged, dark, and often falls in messy strands over his face, adding to his roguish charm.
 
 Despite his unusual height, Quandavius moves with the grace and fluidity of a natural performer, his every step calculated and precise. He wears simple clothing—often dark, muted tones to help him blend into shadows—yet always ensures his attire is just elegant enough to maintain his bardic image.
 
