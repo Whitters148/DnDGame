@@ -76,4 +76,6 @@ Though he is only 22, the years of travel and mercenary work have aged him beyon
 
 Thorne Blacksteel is a man who values strength, loyalty, and personal honor. His stubborn nature makes him difficult to work with at times, but those who earn his trust find an unshakable ally in him. His love for fire, while dangerous, gives him a unique edge in battle, and his combat skills make him a formidable fighter. Thorne’s journey as a mercenary is far from over, and though he left his village to seek a greater purpose, he may one day return to confront the past he left behind.
 
+[[Character Sheet - Thorne]]
+
 ![[image 5.png|image 5.png]]
