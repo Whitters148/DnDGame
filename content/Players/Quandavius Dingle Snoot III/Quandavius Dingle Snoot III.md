@@ -1,3 +1,7 @@
+---
+title: 
+draft:
+---
 ### **Character Name**: Quandavius Dingle Snoot III
 
 ### **Race**: Human

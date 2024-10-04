@@ -2,7 +2,6 @@
 title: 
 draft:
 ---
-
 The **ancient corrupted artifacts** are pivotal elements in the story, tied directly to **Lord Damaris Malakar’s** rise to power and his eventual ascension. These artifacts are powerful relics from an ancient age, imbued with dark and forbidden magic. **Damaris** has been gathering these artifacts to **siphon their power**, making him stronger and more dangerous as the campaign progresses
 
 **The Known Artifacts**

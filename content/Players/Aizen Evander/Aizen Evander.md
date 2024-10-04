@@ -1,3 +1,7 @@
+---
+title: 
+draft:
+---
 ### **Character Name**: Aizen Evander
 
 ### **Race**: Human

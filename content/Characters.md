@@ -2,7 +2,6 @@
 title: Characters
 draft: false
 ---
-
 [[Karim of the Dunes (Weapon Merchant)]]
 
 [[Leila Ashmir (Innkeeper)]]

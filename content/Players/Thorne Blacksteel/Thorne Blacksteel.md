@@ -1,3 +1,7 @@
+---
+title: 
+draft:
+---
 ### **Character Name**: Thorne Blacksteel
 
 ### **Race**: Human
