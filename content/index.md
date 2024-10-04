@@ -8,3 +8,6 @@ title: Index of Contents
 [[Enemies]]
 
 [[Map]]
+
+[[Spells]]
+
