@@ -83,4 +83,7 @@ Though many are drawn to his glowing eyes and easy smile, there’s a palpable s
 
 Quandavius Dingle Snoot III is a man caught between the life of a charming performer and that of a hunted criminal. His past haunts him, and his future is uncertain, but he moves through the world with confidence and flair. Though he may steal and deceive to survive, deep down, Quandavius longs for justice—both for himself and for those he’s lost. His path may be fraught with danger, but his sharp wit, quick fingers, and powerful voice make him a force to be reckoned with.
 
+[[Character Sheet - Quandavius]]
+
+
 ![[image 4.png|image 4.png]]
