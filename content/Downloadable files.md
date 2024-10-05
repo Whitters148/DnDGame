@@ -1,6 +1,6 @@
 ---
 title: 
-draft: true
+draft: false
 ---
 Character sheet template - https://armorclass.co/a/downloads/-/250c668fb0906a6e/6702774572bd4e8a/download
 
