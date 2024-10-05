@@ -86,4 +86,6 @@ Aizen’s story paints him more as a person on the run, exiled from his home and
 - Lives a life of secrecy and caution.
 - Has unresolved guilt and emotional scars from their past.
 
+[[Character Sheet - Aizen]]
+
 ![[image 3.png|image 3.png]]
