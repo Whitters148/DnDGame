@@ -13,3 +13,4 @@ title: Index of Contents
 
 [[Spells]]
 
+[[Downloadable files]]
