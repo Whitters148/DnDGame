@@ -2,7 +2,6 @@
 title: 
 draft:
 ---
-
 **Type**: Medium Humanoid (Any Race), Neutral Evil  
 **Armor Class**: 15 (Leather Armor)  
 **Hit Points**: 45 (7d8 + 14)  
