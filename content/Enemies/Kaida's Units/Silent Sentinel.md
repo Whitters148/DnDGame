@@ -1,6 +1,6 @@
 ---
 title: 
-draft:
+draft: true
 ---
 
 **Type**: Medium humanoid (any race), any alignment  

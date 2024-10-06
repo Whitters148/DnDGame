@@ -1,10 +1,7 @@
 ---
 title: 
-draft: true
+draft: false
 cssclasses:
 ---
 [[Dusk Spider]]
 [[NightStalker]]
-[[Shadowblade]]
-[[Silent Sentinel]]
-[[Poisoner]]

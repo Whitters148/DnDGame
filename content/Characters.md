@@ -16,3 +16,5 @@ draft: false
 
 [[Shaan Al-Duri (Trade Master-Mayor)]]
 
+[[Steve Dungrove (Wandering Merchant)]]
+

@@ -1,6 +1,6 @@
 ---
 title: 
-draft:
+draft: true
 ---
 
 **Type**: Medium Humanoid (Any Race), Neutral Evil  
