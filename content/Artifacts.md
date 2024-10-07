@@ -8,7 +8,7 @@ The **ancient corrupted artifacts** are pivotal elements in the story, tied dire
 
 Here’s a list of key artifacts, each with its own powers, curses, and lore. These can be scattered across **Vaeloris**, hidden in various holds or guarded by powerful entities. Some may already be in **Damaris’ possession**, while others remain undiscovered.
 
-1.  ??? (Ravenmoor)
+1.  ??? (Ravenmoor, Guarded by Seraphina Blackthorn)
 2.  ??? (Potentially Frozen North)
 3.  ??? (Southern Duneblade Desert, Possible sandstrider involvement)
 4.  ???
