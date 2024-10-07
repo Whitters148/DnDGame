@@ -84,6 +84,7 @@ Varathor’s forces are known for their merciless efficiency and complete destru
 - **Tactical Weakness**: Though Varathor is a brilliant general, his reliance on brute force and straightforward attacks may provide players with an opportunity to exploit his overconfidence or lack of subtlety in certain situations.
 - **Redemption Arc**: Varathor’s loyalty is rooted in power. Should the players manage to demonstrate superior strength or expose a weakness in Damaris’ leadership, they may be able to sway him—or at least fracture his loyalty to the Oppressor cause.
 
-![[image 6.png|]]
+
+![[image 6.png]]
 
 [[Rend, The Bloodthirsty Axe of Varathor]]
