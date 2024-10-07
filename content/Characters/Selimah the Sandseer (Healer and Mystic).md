@@ -2,7 +2,6 @@
 title: 
 draft:
 ---
-
 - **Role**: Local healer and fortune-teller.
 - **Occupation**: Herbalist, healer, and mystic.
 - **Personality**: Mysterious, cryptic, and always speaking in riddles or omens. She believes in fate and destiny.
@@ -17,3 +16,14 @@ draft:
     - **Hair**: Long and silver, cascading down her back in soft waves. She often keeps it loosely braided with bits of dried herbs and beads woven into it.
     - **Clothing**: Wears flowing robes in shades of white and pale blue, reminiscent of water and air. Her wrists are adorned with bracelets made from shells, feathers, and small crystals. She carries a satchel filled with herbs, potions, and mystical trinkets.
     - **Features**: Selimah’s eyes are a piercing pale blue, almost unnerving in their clarity. Her face is serene, with high cheekbones and a peaceful expression that rarely changes, regardless of the situation. Her hands are long and slender, often seen gently mixing potions or holding talismans.
+---
+**After Sunscar:**
+
+-- **Role**: Former mystic and healer from Sunscar, now offering her mystical knowledge and healing abilities to the refugees.
+- **Occupation**: Healer and mystic for the refugees, providing divinations and spiritual guidance.
+- **Personality**: Still cryptic and mysterious, Selimah offers wisdom and predictions, though the fall of Sunscar has left her deeply saddened by the fate of her people.
+- **Updates**:
+    - Selimah has set up a healing tent in Falconstone, tending to the wounded and sick among the refugees. She also continues to offer divinations and mystical insights, especially when the future seems uncertain.
+- **How to Utilize**:
+    - **Quest Giver**: Offers quests tied to finding rare herbs or mystical items that could help the refugees, or finding answers through divination for players seeking guidance.
+- **Location**: Found in her tent near Falconstone’s medical areas, offering healing and divinations to those in need.

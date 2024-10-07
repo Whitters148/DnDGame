@@ -2,7 +2,6 @@
 title: 
 draft:
 ---
-
 ### **Basic Information**
 
 - **Name**: Remus Thornvale
@@ -56,3 +55,7 @@ Remus represents the cost of war and the consequences of tyranny. His life is a 
 1. **Encounter in Sunscar**: The players first meet Remus as he is preparing to leave Sunscar. He is surly and uncooperative, but if they offer to help him escape, he may provide them with valuable information or resources.
 2. **Journey to Ravenmoor**: If the players travel with Remus, they will witness his struggle with his past and his hopes for the future. Along the way, he may open up about his regrets and fears, deepening their bond.
 3. **New Life in Ravenmoor**: In Ravenmoor, Remus struggles to find his place. The players may help him establish a new forge or find peace in a world that is as haunted as he is. This could lead to quests involving dark magic, haunted forges, or helping other lost souls in the region.
+---
+**After Sunscar:**
+
+Remus is journey to Ravemoor and currently resides in Gloomwatch after travelling with the players. They were in need of a new Blacksmith

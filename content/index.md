@@ -19,4 +19,8 @@ title: Index of Contents
 
 [[Legendary Gear]]
 
+[[Pan Daladin's notes - Keep Out]]
+
+
+
 

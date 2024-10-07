@@ -17,3 +17,14 @@ draft:
     - **Hair**: Long, jet black, often tied back into a simple ponytail to keep it out of the way while working.
     - **Clothing**: Wears simple but well-kept tunics, usually in earthy tones of brown or green. A leather apron hangs over her front, marked with the stains of her work. She also wears small silver hoop earrings.
     - **Features**: Leila has high cheekbones, a straight nose, and dark, intelligent eyes that flicker with a knowing gleam. She carries herself with confidence, but there’s a quiet alertness to her posture, as if she’s always expecting trouble. Her hands are calloused from years of manual work at the inn.
+---
+**After Sunscar:**
+
+- **Role**: Former innkeeper of **The Scorched Oasis** Tavern, now caring for Sunscar’s displaced survivors in Falconstone.
+- **Occupation**: Caretaker and liaison for the refugees, assisting in their day-to-day survival.
+- **Personality**: Still sharp and witty, though now burdened by the need to find new hope for the survivors. She remains a strong, comforting presence among her people.
+- **Updates**:
+    - Leila now operates a makeshift inn within Falconstone, providing shelter, food, and comfort to the refugees. She also gathers information about the surrounding threats and potential allies.
+- **How to Utilize**:
+    - **Quest Giver**: Offers tasks focused on gathering supplies, dealing with refugee needs, and securing the safety of the camp. Her past connections may also lead to quests involving more secretive dealings with mercenaries.
+- **Location**: Leila can be found in the communal areas of Falconstone, where she helps organize the refugees’ food and shelter.
