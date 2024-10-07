@@ -9,7 +9,7 @@ title: Index of Contents
 
 [[Map]]
 
-[[players]]
+[[Players]]
 
 [[Spells]]
 
