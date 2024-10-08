@@ -4,8 +4,6 @@ draft:
 ---
 [[Giant Scorpion]]
 
+[[Sandcrackler]]
 
 [[Sand Strider]]
-
-
-[[Sandcrackler]]
