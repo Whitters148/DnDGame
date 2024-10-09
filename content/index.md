@@ -1,5 +1,5 @@
 ---
-title: Index of Contents
+title: Homepage
 ---
 [[Artifacts]]
 
