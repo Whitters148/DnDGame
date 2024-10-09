@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🎲🐉⚔️🏰🧛💰		Relics of the Forsaken",
+    pageTitle: "🎲🐉⚔️🏰🧛💰		Artifacts of the Forsaken",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

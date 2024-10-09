@@ -1,0 +1,17 @@
+---
+title: 
+draft:
+---
+#### Inventory Table
+
+| **Item**                     | **Description**                                                                                       | **Cost** | **Special Properties**                                                                                                                       |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Abyss-Touched Longsword      | A finely crafted longsword imbued with minor abyssal magic.                                           | 250 GP   | +1 to attack and damage rolls. Deals an additional 1d4 necrotic damage.                                                                      |
+| Phantasmal Battleaxe         | A two-handed battleaxe with ghostly runes along its blade.                                            | 300 GP   | When swung, creates a faint, ethereal afterimage. Adds 1d6 force damage on a crit.                                                           |
+| Dreadsteel Shortsword        | A darkened shortsword crafted from metal that shimmers with a faint aura of fear.                     | 200 GP   | When an enemy is hit, they must succeed on a DC 12 Wisdom saving throw or be frightened until the end of their next turn.                    |
+| Revenant Warhammer           | A heavy warhammer forged with soul-bound iron, designed to crush armor.                               | 350 GP   | Adds +1 to attack and damage rolls. On a hit, deal an extra 1d8 radiant or necrotic (player's choice).                                       |
+| Shadow Pike                  | A long, obsidian spear that glimmers with dark energy.                                                | 275 GP   | On a critical hit, summon a ghostly hand to hold the enemy in place for 1 round.                                                             |
+| Ebonfire Greataxe            | This massive axe crackles with a black flame that deals additional fire damage.                       | 400 GP   | Deals 1d6 extra fire damage on a hit. If the target is reduced to 0 HP, they ignite with ghostly flames for 1 minute.                        |
+| Runeforged Dagger            | A lightweight dagger with runes carved into its hilt, excellent for quick strikes.                    | 180 GP   | Adds 1d4 bonus necrotic damage on a hit. Reroll 1s on damage dice.                                                                           |
+| Blade of Spectral Winds      | A sleek curved blade that whispers as it moves through the air.                                       | 325 GP   | Grants +1 to attack and damage rolls. Once per long rest, can cast _misty step_.                                                             |
+| Abyssal Edge (Custom Weapon) | Zarash's special commission weapon. The player can request a custom enchanted weapon of their choice. | 500+ GP  | The enchantment varies, combining traditional weaponry with ghostly or abyssal themes (e.g., extra necrotic damage, ghostly visual effects). |
