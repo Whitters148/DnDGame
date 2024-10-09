@@ -22,3 +22,5 @@ title: Index of Contents
 [[Players]]
 
 [[Spells]]
+
+[[XP System]]

@@ -4,6 +4,8 @@ draft:
 ---
 _A combination of mysterious potions and powerful spells in one quirky, magical store._
 
+Owned and ran by [[Boris 'Bumbling' Blackbrew (Potion Vendor)]] and [[Thalia Whisperwind (Spell Vendor)]]
+
 ### **Boris 'Bumbling' Blackbrew's Inventory**
 
 _Boris specializes in potions and alchemical ingredients, though not all of his concoctions are reliable..._

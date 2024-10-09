@@ -4,6 +4,8 @@ draft:
 ---
 A cozy, earth-scented shop filled with dried herbs, bottles of strange liquids, and bubbling cauldrons. Amara is always ready to sell her remedies to those in need of healing.
 
+Owned and ran by [[Amara Holloway (Herbalist)]]
+
 |**Item**|**Description**|**Cost**|
 |---|---|---|
 |Healing Potion|Restores 2d4+2 hit points.|50 gp|
