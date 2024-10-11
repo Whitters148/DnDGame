@@ -6,3 +6,5 @@ draft:
 
 **Boblin the goblin** will have his revenge....
 
+
+[[Abyssal Ranger – Darkstrider]]
