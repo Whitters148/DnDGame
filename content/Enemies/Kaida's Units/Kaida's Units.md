@@ -11,6 +11,10 @@ cssclasses:
 
 [[Shadowblade]]
 
+[[Shadowbone Goliath]]
+
+[[Shadowstone Sentinel]]
+
 [[Silent Sentinel]]
 
 [[Loot Pool]]

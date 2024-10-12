@@ -2,7 +2,6 @@
 title: 
 draft: false
 ---
-
 **Type**: Medium humanoid (any race), any alignment  
 **Armor Class**: 16 (Chainmail, Shield)  
 **Hit Points**: 45 (6d8 + 18)  

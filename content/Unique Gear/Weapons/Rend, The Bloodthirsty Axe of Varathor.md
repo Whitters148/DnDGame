@@ -2,7 +2,6 @@
 title: 
 draft:
 ---
-
 ***Item Rarity**: **Legendary**
 
 **Weapon Type**: Two-Handed Greataxe

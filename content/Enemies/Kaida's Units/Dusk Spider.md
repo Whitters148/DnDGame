@@ -2,7 +2,6 @@
 title: 
 draft: false
 ---
-
 **Type**: Medium Beast, Unaligned  
 **Armor Class**: 13 (Natural Armor)  
 **Hit Points**: 36 (8d8)  
@@ -14,7 +13,7 @@ draft: false
 
 **Skills**: Perception +3, Stealth +4  
 **Senses**: Darkvision 60 ft., Passive Perception 13  
-**Languages**: —  
+**Languages**: 
 **Challenge**: 2 (450 XP)
 
 ---
