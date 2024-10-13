@@ -44,7 +44,7 @@ At night, the village takes on a more sinister feel, as the mist grows thicker a
 
 Gloomwatch serves as a central hub for players venturing into the darker aspects of the campaign, particularly those dealing with dark magic, the undead, and the supernatural. It’s a place where players can gather information, forge alliances with characters like Vespera Nightshade and Selena Ravencroft, and uncover secrets about Ravenmoor and the artifacts hidden within the land. The village reflects the themes of survival, sacrifice, and the thin line between life and death that pervades the world of Vaeloris.
 
-[[]]
+[[Gloomwatch NPCs]]
 
 [[Blackbrew & Whisperwind's Arcane Emporium]]
 
