@@ -2,4 +2,4 @@
 title: 
 draft:
 ---
-[[Gloomwatch]]
+[[content/Locations/Gloomwatch]]
