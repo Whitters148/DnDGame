@@ -2,6 +2,6 @@
 title: 
 draft:
 ---
-[[Gloomwatch]]
+[[Gloomwatch NPCs]]
 
 
