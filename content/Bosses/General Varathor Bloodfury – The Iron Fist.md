@@ -68,3 +68,5 @@ Varathor was one of Lord Damaris' most trusted generals, leading vast armies tha
 
 - **Siege of a Resistance Stronghold**: Varathor led a devastating siege, which the players had to either defend against or counter. His fall in battle proved a significant victory for the Resistance.
 - **Exploiting His Weakness**: Though Varathor was a formidable foe, his reliance on brute strength made him vulnerable to more strategic and subtle approaches, a fatal flaw exploited by the players in their final encounter.
+
+![[Varathor.png]]

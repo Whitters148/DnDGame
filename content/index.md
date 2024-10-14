@@ -11,7 +11,7 @@ title: Homepage
 
 [[Enemies]]
 
-[[Legendary Gear]]
+[[Unique Gear]]
 
 [[Locations]]
 

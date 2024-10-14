@@ -88,4 +88,4 @@ Aizen’s story paints him more as a person on the run, exiled from his home and
 
 [[Character Sheet - Aizen]]
 
-![[image 3.png|image 3.png]]
+![[Aizen.png]]

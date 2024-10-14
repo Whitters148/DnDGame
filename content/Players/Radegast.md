@@ -77,4 +77,6 @@ Radegast’s overall build is broad and muscular, the result of years spent honi
 
 Radegast is a character torn between the disciplined path of the Paladin and the wild instincts of his wolf heritage. His journey is one of control—over his past, his emotions, and the beast within. He seeks redemption not just for his actions as a soldier, but for the very nature that defines him.
 
-![[/image 2.png|image 2.png]]
+[[Character Sheet - Radegast]]
+
+![[Radegast.png]]

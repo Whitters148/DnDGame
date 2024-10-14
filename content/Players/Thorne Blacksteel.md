@@ -78,4 +78,4 @@ Thorne Blacksteel is a man who values strength, loyalty, and personal honor. His
 
 [[Character Sheet - Thorne]]
 
-![[image 5.png|image 5.png]]
+![[Thorne.png]]

@@ -85,5 +85,4 @@ Quandavius Dingle Snoot III is a man caught between the life of a charming perfo
 
 [[Character Sheet - Quandavius]]
 
-
-![[image 4.png|image 4.png]]
+![[Quandavius.png]]

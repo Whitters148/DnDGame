@@ -2,9 +2,38 @@
 title: Characters
 draft: false
 ---
-[[Ravenmoor]]
+[[Amara Holloway (Herbalist)]]
 
-[[The Frozen North]]
+[[Boris 'Bumbling' Blackbrew (Potion Vendor)]]
 
-[[Duneblade Desert]]
+[[Elder Mordwyn (Village Elder)]]
 
+[[Gregor Blackthorne (Gravedigger)]]
+
+[[Ilya Sablewood (Spirit Medium)]]
+
+[[Karim of the Dunes (Weapon Merchant)]]
+
+[[Leila Ashmir (Innkeeper)]]
+
+[[Lyra Stormclaw]]
+
+[[Nyra Whisperwind (Thief and Spy)]]
+
+[[Remus Thornvale (Ex Blacksmith)]]
+
+[[Selena Ravencroft (Witch)]]
+
+[[Selimah the Sandseer (Healer and Mystic)]]
+
+[[Shaan Al-Duri (Trade Master-Mayor)]]
+
+[[Steve Dungrove (Wandering Merchant)]]
+
+[[Thalia Whisperwind (Spell Vendor)]]
+
+[[Thistlebrook Quickstep]]
+
+[[Thorn the Lost (Wandering Revenant)]]
+
+[[Zarash Bloodtusk]]
