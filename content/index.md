@@ -7,6 +7,8 @@ title: Homepage
 
 [[Characters]]
 
+[[Contracts]]
+
 [[Downloadable files]]
 
 [[Enemies]]
