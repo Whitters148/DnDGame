@@ -58,3 +58,5 @@ Steve was once a failed shopkeeper in a small village, but after realizing he co
 ### **Symbolism and Themes**:
 
 Steve represents the lighter side of the campaign—a reminder that not everything has to be serious or dire. He’s the kind of character who can inject humor into intense situations, offering comic relief when the players need it most. He might also subtly remind players not to take everything at face value, since even the strangest of items or people could surprise them.
+
+![[Steve Dungrove.jpg]]
