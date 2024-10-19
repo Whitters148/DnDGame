@@ -40,3 +40,5 @@ Remus can serve as a mentor or guide for the players, particularly if they are n
 - **Expert Blacksmith**: Remus’ skills with a hammer and anvil are unmatched. He can identify the make and quality of any weapon or piece of armor, and with the right materials, he can repair or improve them for the players.
 - **Physical Strength**: Despite his age, Remus retains his powerful build from years of blacksmithing. He has advantage on Athletics checks involving strength or heavy lifting.
 - **Survival Instincts**: Remus has lived on the fringes of society for years, making him adept at surviving in harsh conditions. He has proficiency in Survival checks and can forage for food, build shelters, and navigate wilderness with ease.
+
+![[Remus.jpg]]
