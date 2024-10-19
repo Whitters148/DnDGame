@@ -1,11 +1,7 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: 
+draft:
 ---
-```
 #### **Hit Dice (HP):**
 
 - **Hit Dice**: 1d8 per Voidbinder level.
