@@ -39,7 +39,7 @@ _Thalia provides spells and magical items, focusing on supporting spellcasters a
 | **Arcane Focus (Staff)**           | 100 gp         | Allows the user to use it as a spellcasting focus.                                                              |
 | **Wand of Detect Magic**           | 300 gp         | Detects magic in a 30-foot radius. Has 3 charges and recharges 1d3 charges daily.                               |
 | **Crystal Ball (Divination Tool)** | 2,000 gp       | A powerful divination tool for casting Scrying. Allows one scry per day, focusing on a known target.            |
-| **Bag of Holding**                 | 500 gp         | A magical bag that can hold up to 500 pounds of weight, not exceeding a volume of 64 items.                     |
+| **Bag of Holding**                 | 500 gp         | A magical bag that can hold up to 500 KG of weight, not exceeding a volume of 64 items.                         |
 | **Rare Spell Components**          | 200 gp         | Includes rare spell components (diamonds, pearls, etc.) for high-level spellcasting or rituals.                 |
 | **Magical Ink (For Spellbooks)**   | 75 gp per vial | Rare ink used for copying spells into spellbooks or scrolls.                                                    |
 | **Scroll of Teleportation Circle** | 750 gp         | Casts Teleportation Circle (Level 5) without using a spell slot.                                                |
