@@ -1,6 +1,6 @@
 ---
 title: 
-draft:
+draft: true
 ---
 - **Race**: Human
 - **Class**: None (Gravedigger)
