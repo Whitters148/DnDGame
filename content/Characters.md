@@ -36,4 +36,6 @@ draft: false
 
 [[Thorn the Lost (Wandering Revenant)]]
 
+[[Vespera Nightshade]]
+
 [[Zarash Bloodtusk]]
