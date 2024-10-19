@@ -8,7 +8,7 @@ draft:
 
 [[Elder Mordwyn (Village Elder)]]
 
-[[Gregor Blackthorne (Gravedigger)]]
+[[Gregor Blackthorn (Gravedigger)]]
 
 [[Ilya Sablewood (Spirit Medium)]]
 
