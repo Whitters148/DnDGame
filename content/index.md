@@ -1,7 +1,7 @@
 ---
 title: Homepage
 ---
-[[Artifacts]]
+[[content/Artifacts]]
 
 [[Bosses]]
 
