@@ -28,18 +28,18 @@ _Boris specializes in potions and alchemical ingredients, though not all of his 
 
 _Thalia provides spells and magical items, focusing on supporting spellcasters and offering rare magical components._
 
-|**Item Name**|**Price**|**Effect**|
-|---|---|---|
-|**Scroll of Fireball**|250 gp|Casts Fireball (Level 3) without using a spell slot.|
-|**Scroll of Counterspell**|300 gp|Casts Counterspell (Level 3) without using a spell slot.|
-|**Scroll of Fly**|200 gp|Casts Fly (Level 3) without using a spell slot.|
-|**Pearl of Power**|500 gp|Once per day, recover one expended spell slot (up to 3rd level).|
-|**Ring of Spell Storing**|1,000 gp|Can store up to 5 levels worth of spells cast into it, usable later without expending the caster's spell slots.|
-|**Wand of Magic Missiles**|750 gp|A wand with 7 charges. Expends charges to cast Magic Missile (Level 1) at will. Regains charges daily (1d6+1).|
-|**Arcane Focus (Staff)**|100 gp|Allows the user to use it as a spellcasting focus.|
-|**Wand of Detect Magic**|300 gp|Detects magic in a 30-foot radius. Has 3 charges and recharges 1d3 charges daily.|
-|**Crystal Ball (Divination Tool)**|2,000 gp|A powerful divination tool for casting Scrying. Allows one scry per day, focusing on a known target.|
-|**Bag of Holding**|500 gp|A magical bag that can hold up to 500 pounds of weight, not exceeding a volume of 64 cubic feet.|
-|**Rare Spell Components**|200 gp|Includes rare spell components (diamonds, pearls, etc.) for high-level spellcasting or rituals.|
-|**Magical Ink (For Spellbooks)**|75 gp per vial|Rare ink used for copying spells into spellbooks or scrolls.|
-|**Scroll of Teleportation Circle**|750 gp|Casts Teleportation Circle (Level 5) without using a spell slot.|
+| **Item Name**                      | **Price**      | **Effect**                                                                                                      |
+| ---------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Scroll of Fireball**             | 250 gp         | Casts Fireball (Level 3) without using a spell slot.                                                            |
+| **Scroll of Counterspell**         | 300 gp         | Casts Counterspell (Level 3) without using a spell slot.                                                        |
+| **Scroll of Fly**                  | 200 gp         | Casts Fly (Level 3) without using a spell slot.                                                                 |
+| **Pearl of Power**                 | 500 gp         | Once per day, recover one expended spell slot (up to 3rd level).                                                |
+| **Ring of Spell Storing**          | 1,000 gp       | Can store up to 5 levels worth of spells cast into it, usable later without expending the caster's spell slots. |
+| **Wand of Magic Missiles**         | 750 gp         | A wand with 7 charges. Expends charges to cast Magic Missile (Level 1) at will. Regains charges daily (1d6+1).  |
+| **Arcane Focus (Staff)**           | 100 gp         | Allows the user to use it as a spellcasting focus.                                                              |
+| **Wand of Detect Magic**           | 300 gp         | Detects magic in a 30-foot radius. Has 3 charges and recharges 1d3 charges daily.                               |
+| **Crystal Ball (Divination Tool)** | 2,000 gp       | A powerful divination tool for casting Scrying. Allows one scry per day, focusing on a known target.            |
+| **Bag of Holding**                 | 500 gp         | A magical bag that can hold up to 500 pounds of weight, not exceeding a volume of 64 items.                     |
+| **Rare Spell Components**          | 200 gp         | Includes rare spell components (diamonds, pearls, etc.) for high-level spellcasting or rituals.                 |
+| **Magical Ink (For Spellbooks)**   | 75 gp per vial | Rare ink used for copying spells into spellbooks or scrolls.                                                    |
+| **Scroll of Teleportation Circle** | 750 gp         | Casts Teleportation Circle (Level 5) without using a spell slot.                                                |
