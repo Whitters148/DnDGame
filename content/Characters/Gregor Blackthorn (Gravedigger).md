@@ -23,7 +23,7 @@ Blunt and morbidly humorous, Gregor has a habit of cracking jokes about death an
 
 ### **Backstory**:
 
-Gregor has been the gravedigger of **Gloomwatch** since he was a young boy, learning the trade from his father, who held the same position before him. Growing up in the cemetery, Gregor has always been surrounded by death and the mysteries of the grave. He has witnessed strange occurrences over the years, from wandering spirits to unexplainable phenomena, but he has learned to take it all in stride. His long years of service to the village have made him a fixture of **Gloomwatch**, and despite his dark sense of humor, Gregor is deeply respected for his reliability and work ethic.
+Gregor has been the gravedigger of **Gloomwatch** since he was a resurrected by Vespera, learning the trade from memories implanted into him. Once a comedian in his past life, he tends to the cemetary as an assistant to Vespera's spells and schemes. Living in the cemetery since revival, Gregor has always been surrounded by death and the mysteries of the grave. He has witnessed strange occurrences over the years, from wandering spirits to unexplainable phenomena, but he has learned to take it all in stride. His long years of service to the village have made him a fixture of **Gloomwatch**, and despite his dark sense of humor, Gregor is deeply respected for his reliability and work ethic.
 
 While he doesn’t dabble in the supernatural, Gregor’s experience with the dead makes him a valuable ally to those dealing with matters of life and death in **Ravenmoor**. He knows the history of the graveyard and the secrets it holds, and though he may be reluctant to share, he is always willing to lend a hand when the village is in danger.
 
