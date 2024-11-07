@@ -26,6 +26,8 @@ draft: false
 
 [[Selimah the Sandseer (Healer and Mystic)]]
 
+[[Seraphina Blackthorn (Abyssal Gate Guardian)]]
+
 [[Shaan Al-Duri (Trade Master-Mayor)]]
 
 [[Steve Dungrove (Wandering Merchant)]]

@@ -2,24 +2,24 @@
 title: 
 draft: true
 ---
-Huge aberration, lawful evil
+Huge aberration, Neutral evil
 
 **Once known as Garron Stonebreaker, Thrashor has become the ultimate enforcer of brute strength under Eryx's command. His symbiotic form transforms him into a towering juggernaut capable of smashing enemies with immense force. His limbs shift into heavy weaponry, making him an unstoppable force on the battlefield.**
 
-**Armor Class**: 18 (natural armor)  
+**Armor Class**: 22 (natural armor)  
 **Hit Points**: 320 (25d12 + 200)  
 **Speed**: 40 ft.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|26 (+8)|14 (+2)|24 (+7)|10 (+0)|12 (+1)|15 (+2)|
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 26 (+8) | 14 (+2) | 24 (+7) | 10 (+0) | 12 (+1) | 15 (+2) |
 
-**Saving Throws**: Str +14, Con +12  
-**Skills**: Athletics +14, Intimidation +8  
+**Saving Throws**: Str +14, Dex +8, Con +13, Wis +7   
+**Skills**: Athletics +14, Intimidation +8, Perception +7  
 **Damage Resistances**: Cold, Necrotic  
 **Damage Immunities**: Poison  
 **Condition Immunities**: Poisoned, Frightened  
-**Senses**: Darkvision 120 ft., passive Perception 11  
+**Senses**: Darkvision 120 ft., passive Perception 17  
 **Languages**: Abyssal, Common  
 **Challenge**: 20 (25,000 XP)  
 **Proficiency Bonus**: +6
@@ -29,7 +29,7 @@ Huge aberration, lawful evil
 ### **Traits**
 
 **Brutal Weaponry**:  
-Thrashor can shift his limbs into warhammers, battleaxes, or mauls, dealing heavy damage. His melee attacks deal an additional 1d12 damage.
+Thrashor can morph his limbs into warhammers, battleaxes, or mauls, dealing heavy damage. His melee attacks deal an additional 1d12 damage.
 
 **Juggernaut Charge**:  
 If Thrashor moves at least 20 feet straight toward a creature and then hits it with a melee attack, the target takes an extra 10 (3d6) damage and must make a DC 19 Strength saving throw or be knocked prone.

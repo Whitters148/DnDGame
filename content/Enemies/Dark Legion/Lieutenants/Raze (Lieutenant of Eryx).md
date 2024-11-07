@@ -2,7 +2,7 @@
 title: 
 draft: true
 ---
-Huge aberration, chaotic evil
+Large aberration, chaotic evil
 
 **Once a barbarian named Selene Ashenclaw, Raze bonded with a symbiote that amplified her bloodthirsty tendencies, turning her into a destructive enforcer of chaos. Her symbiote powers allow her to use long, whip-like tendrils to strike enemies, blending primal fury with unpredictable combat tactics. Now, as one of Eryx's most dangerous lieutenants, she embodies chaos and destruction, striking fear into all who oppose her.**
 
@@ -35,7 +35,7 @@ Huge aberration, chaotic evil
 **Tendril Hair**:  
 Raze’s long, whip-like tendrils extend from her head, capable of striking foes at range. She can make melee attacks with these tendrils that have a 15 ft. reach and can grapple or restrain enemies.
 
-**Rage-Fueled Healing**:  
+**Symbiotic Regeneration**:  
 When Raze takes damage, she regains 10 hit points at the start of her turn as long as she has taken damage in the last round. This ability does not function if she is affected by fire or radiant damage.
 
 **Primal Chaos**:  

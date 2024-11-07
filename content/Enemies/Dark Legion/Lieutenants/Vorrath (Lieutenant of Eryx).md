@@ -10,9 +10,9 @@ Medium aberration, chaotic evil
 **Hit Points**: 260 (23d10 + 138)  
 **Speed**: 45 ft.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|20 (+5)|24 (+7)|22 (+6)|14 (+2)|12 (+1)|18 (+4)|
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 20 (+5) | 24 (+7) | 22 (+6) | 14 (+2) | 12 (+1) | 18 (+4) |
 
 **Saving Throws**: Dex +13, Con +12, Cha +10  
 **Skills**: Stealth +13, Acrobatics +13, Intimidation +10  
@@ -32,16 +32,16 @@ Medium aberration, chaotic evil
 Vorrath can shape his limbs into bladed weapons, spikes, or tendrils. His melee attacks deal an additional 1d10 slashing damage.
 
 **Unpredictable Agility**:  
-Vorrath’s erratic and swift movements grant him advantage on Dexterity saving throws and Acrobatics checks. Additionally, he can use a reaction to dodge, giving attackers disadvantage on one melee attack against him per turn.
+Vorrath’s erratic and swift movements grant him advantage on Dexterity saving throws and Acrobatics checks.
 
-**Psychological Warfare**:  
-Vorrath’s presence unnerves enemies. Creatures that start their turn within 20 feet of Vorrath must succeed on a DC 18 Wisdom saving throw or be frightened until the end of their next turn.
+**Chaotic Ambush**:
+If Vorrath begins his turn unseen by enemies, he deals an extra 2d6 necrotic damage with his first attack.
 
 **Regenerative Healing**:  
 Vorrath regains 10 hit points at the start of his turn. He does not regenerate if he takes fire or radiant damage.
 
-**Chaos Aura**:  
-Magical and technological devices within 30 feet of Vorrath malfunction unpredictably. Spellcasters must succeed on a DC 17 Intelligence saving throw when casting a spell within this radius, or the spell fails.
+**Unpredictable Assault**:
+If Vorrath hits the same target with consecutive melee attacks, the target has disadvantage on any saving throws against special effects (like being restrained or stunned) from Vorrath’s attacks.
 
 ---
 
@@ -99,4 +99,4 @@ Vorrath’s regeneration is disabled by fire or radiant damage for 1 turn.
 
 ### **Backstory**:
 
-Once an infamous thief and assassin, **Elrohir Shadowstride** thrived in the shadows of elven society. After a personal tragedy left him broken, Elrohir was sought out by a symbiote. **Eryx** had commanded this newborn symbiote to search for a host easy to manipulate. Sensing the madness and despair of Elrohir, it found him and manipulated him into bonding. The symbiote promised power, revenge, and the determination to right all that had been done wrong to Elrohir. With those promises made, they bonded, becoming **Vorrath**, an agent of madness. The symbiote corrupted his soul, amplifying his darkest impulses, and together they abandoned all remnants of Elrohir's former life. Now, Vorrath exists to spread fear and destruction, reveling in the breakdown of order and the suffering of others.
+Once an infamous thief and assassin, **Elrohir Shadowstride** thrived in the shadows of elven society. After a personal tragedy left him broken, Elrohir was sought out by a symbiote. **Eryx** had commanded this newborn symbiote to search for a host easy to manipulate. Sensing the madness and despair in Elrohir, it found him and manipulated him into bonding. The symbiote promised power, revenge, and the determination to right all that had been done wrong to Elrohir. With those promises made, they bonded, becoming **Vorrath**, an agent of madness. The symbiote corrupted his soul, amplifying his darkest impulses, and together they abandoned all remnants of Elrohir's former life. Now, Vorrath exists to spread fear and destruction, reveling in the breakdown of order and the suffering of others.

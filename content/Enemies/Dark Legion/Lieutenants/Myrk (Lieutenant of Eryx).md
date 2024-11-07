@@ -14,9 +14,9 @@ Once a noble knight named **Darin Blackstone**, Myrk has become a deadly symbiot
 
 ---
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|24 (+7)|22 (+6)|23 (+6)|18 (+4)|16 (+3)|19 (+4)|
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 24 (+7) | 22 (+6) | 23 (+6) | 18 (+4) | 16 (+3) | 19 (+4) |
 
 **Saving Throws**: Dex +13, Con +12, Int +10  
 **Skills**: Stealth +14, Perception +10, Survival +10, Athletics +14  

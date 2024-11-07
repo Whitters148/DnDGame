@@ -90,28 +90,28 @@ As a master of Abyssal energy, you can call upon its full power. As a bonus acti
 
 #### **Level Progression Table:**
 
-|Level|Features|Abyssal Strike Damage|Aura Range|Soul Reaver Uses|
-|---|---|---|---|---|
-|1|Abyssal Strike|1d6|-|-|
-|2|Fighting Style, Second Wind|1d6|-|-|
-|3|Aura of Dread, Subclass|1d6|10 ft.|-|
-|4|Ability Score Improvement|1d6|10 ft.|-|
-|5|Extra Attack, Soul Reaver|2d6|10 ft.|2|
-|6|Ability Score Improvement|2d6|10 ft.|2|
-|7|Fury of the Abyss|2d6|10 ft.|2|
-|8|Ability Score Improvement|2d6|10 ft.|2|
-|9|Abyssal Shield|2d6|10 ft.|3|
-|10|Subclass Feature|3d6|10 ft.|3|
-|11|Doombringer|3d6|10 ft.|3|
-|12|Ability Score Improvement|3d6|15 ft.|3|
-|13|Unholy Endurance|3d6|15 ft.|3|
-|14|Subclass Feature|3d6|15 ft.|3|
-|15|Abyssal Devastation|4d6|15 ft.|3|
-|16|Ability Score Improvement|4d6|15 ft.|4|
-|17|Doombringer (Improved)|4d6|15 ft.|4|
-|18|Master of the Abyss|4d6|15 ft.|4|
-|19|Ability Score Improvement|4d6|15 ft.|4|
-|20|Abyssal Devastation (Improved)|4d6|20 ft.|4|
+| Level | Features                       | Abyssal Strike Damage | Aura Range | Soul Reaver Uses |
+| ----- | ------------------------------ | --------------------- | ---------- | ---------------- |
+| 1     | Abyssal Strike                 | 1d6                   | -          | -                |
+| 2     | Fighting Style, Second Wind    | 1d6                   | -          | -                |
+| 3     | Aura of Dread, Subclass        | 1d6                   | 10 ft.     | -                |
+| 4     | Ability Score Improvement      | 1d6                   | 10 ft.     | -                |
+| 5     | Extra Attack, Soul Reaver      | 2d6                   | 10 ft.     | 2                |
+| 6     | Ability Score Improvement      | 2d6                   | 10 ft.     | 2                |
+| 7     | Fury of the Abyss              | 2d6                   | 10 ft.     | 2                |
+| 8     | Ability Score Improvement      | 2d6                   | 10 ft.     | 2                |
+| 9     | Abyssal Shield                 | 2d6                   | 10 ft.     | 3                |
+| 10    | Subclass Feature               | 3d6                   | 10 ft.     | 3                |
+| 11    | Doombringer                    | 3d6                   | 10 ft.     | 3                |
+| 12    | Ability Score Improvement      | 3d6                   | 15 ft.     | 3                |
+| 13    | Unholy Endurance               | 3d6                   | 15 ft.     | 3                |
+| 14    | Subclass Feature               | 3d6                   | 15 ft.     | 3                |
+| 15    | Abyssal Devastation            | 4d6                   | 15 ft.     | 3                |
+| 16    | Ability Score Improvement      | 4d6                   | 15 ft.     | 4                |
+| 17    | Doombringer (Improved)         | 4d6                   | 15 ft.     | 4                |
+| 18    | Master of the Abyss            | 4d6                   | 15 ft.     | 4                |
+| 19    | Ability Score Improvement      | 4d6                   | 15 ft.     | 4                |
+| 20    | Abyssal Devastation (Improved) | 4d6                   | 20 ft.     | 4                |
 
 ---
 
