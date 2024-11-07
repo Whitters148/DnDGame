@@ -13,16 +13,16 @@ title: Homepage
 
 [[Enemies]]
 
-[[Unique Gear]]
-
 [[Locations]]
 
 [[Map]]
 
-[[Pan Daladin's notes - Keep Out]]
-
 [[Players]]
 
 [[Spells]]
+
+[[To Do List]]
+
+[[Unique Gear]]
 
 [[XP System]]
