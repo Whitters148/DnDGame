@@ -11,8 +11,6 @@ title: Homepage
 
 [[Downloadable files]]
 
-[[Enemies]]
-
 [[Locations]]
 
 [[Map]]
@@ -20,6 +18,8 @@ title: Homepage
 [[Players]]
 
 [[Spells]]
+
+[[Quest Log]]
 
 [[To Do List]]
 
