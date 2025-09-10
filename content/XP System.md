@@ -1,6 +1,6 @@
 ---
-title: 
-draft:
+title:
+draft: false
 ---
 ### Milestone System Framework:
 
