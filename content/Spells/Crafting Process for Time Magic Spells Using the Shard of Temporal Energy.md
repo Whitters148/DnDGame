@@ -22,7 +22,7 @@ cssclasses:
 
 ### **3. Crafting the Time Spell**
 
-- **Components**: In addition to the **Shard of Temporal Energy**, the player must gather other key ingredients:These components can be found in side quests or bartered for in specific magical shops.
+- **Components**: In addition to the **Shard of Temporal Energy**, the player must gather other key ingredients: These components can be found in side quests or bartered for in specific magical shops.
     - **Silver Dust** from a naturally occurring time distortion (found near the Temple).
     - **Crystal of True Sight**, harvested from magical creatures with the ability to see into alternate timelines.
     - A **Fey Quartz Clock**, a timekeeping device crafted by fey artisans.
